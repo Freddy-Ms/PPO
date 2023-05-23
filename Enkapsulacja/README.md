@@ -1,4 +1,5 @@
 1. Wykonaj następujące polecenia:
+
 • Napisz klasę Komiks zawierającą publiczne pola: tytul, autor, wydawca.
 • Napisz funkcję o nazwie wypisz, która jako argument otrzymuje obiekt tej klasy
 i wypisuje na standardowym wyjściu wartości pól otrzymanego w argumencie obiektu.
