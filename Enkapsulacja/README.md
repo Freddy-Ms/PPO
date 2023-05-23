@@ -1,6 +1,6 @@
 1. Wykonaj następujące polecenia:
-• Napisz klasę Komiks zawierającą publiczne pola: tytul, autor, wydawca.
-• Napisz funkcję o nazwie wypisz, która jako argument otrzymuje obiekt tej klasy i wypisuje na standardowym wyjściu wartości pól otrzymanego w argumencie obiektu.
+a) Napisz klasę Komiks zawierającą publiczne pola: tytul, autor, wydawca.
+b) Napisz funkcję o nazwie wypisz, która jako argument otrzymuje obiekt tej klasy i wypisuje na standardowym wyjściu wartości pól otrzymanego w argumencie obiektu.
 • Napisz funkcję wczytaj, która jako argument otrzymuje referencję do obiektu i wczytuje ze standardowego wejścia wartości pól obiektu, do którego referencje otrzymała w argumencie. 
  Zauważ, że może wystąpić potrzeba wczytania napisu kilkuczłonowego, czyli razem ze spacją. Przygotuj swój program na tego rodzaju przypadek.
 • Dopisz do klasy metody: wczytującą (ze standardowego wejścia dane dla pól obiektu) i wypisującą pola obiektu.
