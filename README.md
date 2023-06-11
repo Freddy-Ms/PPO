@@ -1,2 +1,2 @@
 # Paradygmaty Programowania Obiektowego
- PPO
+ 
